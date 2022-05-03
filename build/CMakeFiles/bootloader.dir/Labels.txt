@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/shivankvishvanathan/Desktop/lcd_dual/build/CMakeFiles/bootloader
+/Users/shivankvishvanathan/Desktop/lcd_dual/build/CMakeFiles/bootloader.rule
+/Users/shivankvishvanathan/Desktop/lcd_dual/build/CMakeFiles/bootloader-complete.rule
+/Users/shivankvishvanathan/Desktop/lcd_dual/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/shivankvishvanathan/Desktop/lcd_dual/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/shivankvishvanathan/Desktop/lcd_dual/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/shivankvishvanathan/Desktop/lcd_dual/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/shivankvishvanathan/Desktop/lcd_dual/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/shivankvishvanathan/Desktop/lcd_dual/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/shivankvishvanathan/Desktop/lcd_dual/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
